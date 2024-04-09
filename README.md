@@ -29,22 +29,25 @@
 
 ## SKILLS
 ### Technologies
-- Cloud Platforms: Amazon Web Services, Google Cloud Platform
-- CI/CD: Gitlab CI, Jenkins, Harness
-- Containerization and orchestration: Google Kubernetes Engine, self-managed Kubernetes, Docker, Docker swarm, Amazon Elastic Container Service
-- Programming Languages: python3, bash, SQL, go lang, Java 8
-- IaC and configuration management: Ansible, Terraform
-- VCS: Git
-- Networks: DNS, Amazon VPC
-- Operating System: Linux (CentOS, Ubuntu)
-- Data: MySQL, Amazon RDS, PostgreSQL
-- Web/Application Server: Apache HTTP Server, nginx, Apache Tomcat
+- **Cloud Platforms**: Amazon Web Services, Google Cloud Platform
+- **CI/CD**: Gitlab CI, Jenkins, Harness
+- **Containerization and orchestration**: Google Kubernetes Engine, self-managed Kubernetes, Docker, Docker swarm, Amazon Elastic Container Service
+- **Programming Languages**: python3, bash, SQL, go lang, Java 8
+- **IaC and configuration management**: Ansible, Terraform
+- **VCS**: Git
+- **Networks**: DNS, Amazon VPC
+- **Operating System**: Linux (CentOS, Ubuntu)
+- **DataBases**: MySQL, Amazon RDS, PostgreSQL
+- **Web/Application Server**: Apache HTTP Server, nginx, Apache Tomcat, WildFly, JBoss
 ### Engineering Practices
 - Infrastructure & Operations: Support.Infrastructure, Knowledge Base Management, System Administration
 - Cloud: Cloud Support Services, Database Configuration and Maintenance, DevOps, Backup and Disaster Recovery Implementation and Maintenance, Application Support, Infrastructure as Code development and maintenance, Source Code Management, Containerization, Virtualization Configuration and Maintenance, Cloud, OS Administration, Container Orchestration Administration, Automation Using Scripting and Programming Languages, Container Orchestration management, Cloud Operations, Network Administration
 - Advanced Technology: Troubleshooting, CI/CD, Continuous Delivery
 ### Academic Disciplines
-- Humanities: Russian, English, Belarusian
+- Languages: 
+  - **Belarusian** - native
+  - **Russian** - native
+  - **English** - Upper Intermediate
 - Applied Sciences: Software Maintenance, Containerization & Containers Orchestration, Systems engineering, Virtualization
 ### Business Functions
 - Corporate Communications: Interviewing
@@ -59,6 +62,25 @@
 
 ## WORK EXPERIENCE
 
+- **Planner5D**
+  - Senior DevOps engineer
+  - November 2023 - till now
+  - Vilnius, Lithuania
+- **EPAM Systems**
+  - Senior/Lead Systems Engineer
+  - Resource manager
+  - June 2022 - October 2023
+  - Vilnius, Lithuania
+- **EPAM Systems**
+  - January 2019 - June 2022
+  - Systems Engineer
+  - Minsk, Belarus
+- **ActiveCloud**
+  - January 2017 - January 2019
+  - Linux System Administrator
+  - Minsk, Belarus
+
+## Projects
 ### Nov-2023 - till now 
 **DevOps engineer, Planner5D**
 - Work as DevOps engineer with product, internal applications and Infrastructure support.
@@ -81,6 +103,12 @@
 - Prepare migration for source code repositories
 - Set up GKE (Kubernetes) cluster
 - Tools and Technologies: Google Spanner, Harness IO, GitHub, ArgoCD, GCP, Kubernetes, Terraform, bash, Git, CI/CD, Containerization, Google Cloud Platform: GKE, Spanner, etc
+
+**Resource manager, EPAM Systems**
+- Managing resource pool of 3 persons
+- Analyze skill set
+- Run 1-1s
+- Looking for projects
 
 ### Aug-2021 - Feb-2023 
 **Senior DevOps / SysOps engineer, EPAM Systems**
@@ -120,5 +148,16 @@
 - SSL-certificates installation, free SSL-certificates generation
 - Configuration of scheduled back up's
 - Installation and maintenance of mail services (postfix, exim, dovecot, sendmail)
-- First level-support of Microsoft Exchange server
-- Tools and Technologies: MySQL (MariaDB, Percona), MS SQL, Kayako, Jira, Zabbix, Exim, Dovecot, Apache
+- First level-support of Microsoft Exchange mail server
+- Tools and Technologies: MySQL (MariaDB, Percona), MS SQL, Kayako, Jira, Zabbix, Apache, Nginx, php-fpm, Linux (CentOS, RedHat, Ubuntu, Debian) and Windows servers, IIS, ISPmanager, BitrixEnv, Mail servers (Exim, Dovecot), FTP
+
+## EDUCATION
+- **Belarusian State University of Informatics and Radioelectronics (BSUIR)** 
+  - Year: 2017-2019
+  - Master of Informatics and Computer Science
+- **Belarusian State University of Informatics and Radioelectronics (BSUIR)**
+   - Year: 2012-2016
+   - Electronic security systems design engineer
+- **Minsk Radioengineering College**
+   - Year: 2007-2012
+   - Electronic computer technician
