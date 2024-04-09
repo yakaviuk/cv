@@ -29,14 +29,16 @@
 
 ## SKILLS
 ### Technologies
-- Standard: DNS, Git
-- Data: MySQL, Databases, Amazon RDS, PostgreSQL
-- Other: Google Kubernetes Engine, Container technologies, Amazon VPC
+- VCS: Git
+- Networks: DNS, Amazon VPC
+- CI/CD: Gitlab CI, Jenkins, Harness
+- Data: MySQL, Amazon RDS, PostgreSQL
+- Containerization and orchestration: Google Kubernetes Engine, self-managed Kubernetes, Docker, Docker swarm, Amazon Elastic Container Service
 - Web/Application Server: Apache HTTP Server, nginx, Apache Tomcat
 - Computer Language: Bash, Java 8, SQL, Go Language, Python
-- Solution: Gitlab, Amazon Elastic Container Service, Ansible, Terraform, Amazon EC2, Amazon S3, Jenkins
-- Operating System: Linux
-- Platform: KVM, Google Cloud Platform, Kubernetes, Amazon Web Services, Docker
+- IaC and configuration management: Ansible, Terraform
+- Operating System: Linux (CentOS, Ubuntu)
+- Platform: KVM, Google Cloud Platform, Amazon Web Services
 ### Engineering Practices
 - Infrastructure & Operations: Support.Infrastructure, Knowledge Base Management, System Administration
 - Cloud: Cloud Support Services, Database Configuration and Maintenance, DevOps, Backup and Disaster Recovery Implementation and Maintenance, Application Support, Infrastructure as Code development and maintenance, Source Code Management, Containerization, Virtualization Configuration and Maintenance, Cloud, OS Administration, Container Orchestration Administration, Automation Using Scripting and Programming Languages, Container Orchestration management, Cloud Operations, Network Administration
