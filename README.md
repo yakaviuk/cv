@@ -1,5 +1,7 @@
 # ILYA YAKAVIUK – LEAD SYSTEMS ENGINEER (DevOps Engineer)
 
+<img src="images/photo.jpg" alt="Photo" style="float: right; margin-right: 10px;" />
+
 ## SUMMARY
 - SysOps/DevOps engineer
 - Experience in IT starting from 2017 with Linux servers and infrastructure support
