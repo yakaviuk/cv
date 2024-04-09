@@ -29,16 +29,16 @@
 
 ## SKILLS
 ### Technologies
+- Cloud Platforms: Amazon Web Services, Google Cloud Platform
+- CI/CD: Gitlab CI, Jenkins, Harness
+- Containerization and orchestration: Google Kubernetes Engine, self-managed Kubernetes, Docker, Docker swarm, Amazon Elastic Container Service
+- Programming Languages: python3, bash, SQL, go lang, Java 8
+- IaC and configuration management: Ansible, Terraform
 - VCS: Git
 - Networks: DNS, Amazon VPC
-- CI/CD: Gitlab CI, Jenkins, Harness
-- Data: MySQL, Amazon RDS, PostgreSQL
-- Containerization and orchestration: Google Kubernetes Engine, self-managed Kubernetes, Docker, Docker swarm, Amazon Elastic Container Service
-- Web/Application Server: Apache HTTP Server, nginx, Apache Tomcat
-- Computer Language: Bash, Java 8, SQL, Go Language, Python
-- IaC and configuration management: Ansible, Terraform
 - Operating System: Linux (CentOS, Ubuntu)
-- Platform: KVM, Google Cloud Platform, Amazon Web Services
+- Data: MySQL, Amazon RDS, PostgreSQL
+- Web/Application Server: Apache HTTP Server, nginx, Apache Tomcat
 ### Engineering Practices
 - Infrastructure & Operations: Support.Infrastructure, Knowledge Base Management, System Administration
 - Cloud: Cloud Support Services, Database Configuration and Maintenance, DevOps, Backup and Disaster Recovery Implementation and Maintenance, Application Support, Infrastructure as Code development and maintenance, Source Code Management, Containerization, Virtualization Configuration and Maintenance, Cloud, OS Administration, Container Orchestration Administration, Automation Using Scripting and Programming Languages, Container Orchestration management, Cloud Operations, Network Administration
@@ -62,10 +62,10 @@
 ### Nov-2023 - till now 
 **DevOps engineer, Planner5D**
 - Work as DevOps engineer with product, internal applications and Infrastructure support.
-- Set up and improve CI/CD pipelines,
-- Solve issues with Kubernetes cluster,
-- Automate ops work using Ansible,
-- Improve monitoring (creating dashboards, etc)
+- Set up and improve CI/CD pipelines
+- Solve issues with Kubernetes cluster
+- Automate ops work using Ansible
+- Improve monitoring (creating dashboards, alerts, etc)
 - Tech stack: 
   - Kubernetes 
   - Docker Swarm 
