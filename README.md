@@ -48,6 +48,7 @@
   - **Belarusian** - native
   - **Russian** - native
   - **English** - Upper Intermediate
+  - **German** - Basic
 - Applied Sciences: Software Maintenance, Containerization & Containers Orchestration, Systems engineering, Virtualization
 ### Business Functions
 - Corporate Communications: Interviewing
