@@ -15,29 +15,29 @@ Experience in IT since 2017, specializing in Linux server and infrastructure sup
 - **Cloud Infrastructure**: Support and optimize cloud environments:
   - **AWS**: EC2, RDS, Load Balancers, S3, ECS, VPC, IAM, CloudFormation.
   - **GCP**: GCE, GKE, GCS, Cloud SQL, Cloud Functions.
-- **Virtualization:** Hands-on experience with KVM, VMWare and other virtualization tools to manage and optimize environments.
+- **Virtualization:** Hands-on experience with KVM, VMWare, and other virtualization tools to manage and optimize environments.
 - **Containerization and Orchestration**: Deploy and manage applications using Docker, Kubernetes, and Docker Swarm, ensuring scalable and resilient environments.
 - **Configuration Management**: Use Ansible to automate configuration management and deployment processes.
-- **Monitoring and Observability**: Create and optimize dashboards for real-time monitoring using Grafana, Prometheus and ELK stack (Elasticsearch, Logstash, Kibana).
-- **Database Management**: Administer and maintain SQL databases (MySQL, Percona, PostgreSQL, MS SQL) with a focus on high availability, replication and performance optimization.
-- **CI/CD Pipelines**: Implement and maintain CI/CD pipelines using Jenkins, Harness IO and GitLab CI for efficient deployment and delivery processes.
+- **Monitoring and Observability**: Create and optimize dashboards for real-time monitoring using Grafana, Prometheus, and ELK stack (Elasticsearch, Logstash, Kibana).
+- **Database Management**: Administer and maintain SQL databases (MySQL, Percona, PostgreSQL, MS SQL) focusing on high availability, replication, and performance optimization.
+- **CI/CD Pipelines**: Implement and maintain CI/CD pipelines using Jenkins, Harness IO, and GitLab CI for efficient deployment and delivery processes.
 - **Backup and Disaster Recovery**: Design and implement backup plans and disaster recovery strategies, ensuring data integrity and business continuity.
-- **Application Support**: Provide comprehensive support for backend and frontend applications (Java and PHP-based), with a focus on performance tuning and troubleshooting.
+- **Application Support**: Provide comprehensive support for backend and frontend applications (Java and PHP-based), focusing on performance tuning and troubleshooting.
 - **Incident Management**: Resolved 100+ technical issues for clients, consistently meeting or exceeding SLA expectations, contributing to improved service reliability and client satisfaction.
 
 ## Key Achievements:
 
-- **Led Application and Infrastructure Migrations**: Directed end-to-end migration projects, ensuring minimal downtime, optimal performance and seamless transitions across diverse environments (on-premises, cloud, containers).
-- **Architected Application Migration Solutions**: Developed and implemented robust strategies for migrating complex applications to new clusters, enhancing scalability, security and efficiency.
+- **Led Application and Infrastructure Migrations**: Directed end-to-end migration projects, ensuring minimal downtime, optimal performance, and seamless transitions across diverse environments (on-premises, cloud, containers).
+- **Architected Application Migration Solutions**: Developed and implemented robust strategies for migrating complex applications to new clusters, enhancing scalability, security, and efficiency.
 - **Established and Optimized DevOps Processes**: Defined and implemented scalable DevOps workflows, selecting and integrating best-in-class tools (e.g., Jenkins, GitLab CI, Harness IO) to automate CI/CD pipelines, reducing deployment times by 50%.
-- **Improved Operational Efficiency**: Spearheaded automation initiatives that eliminated repetitive tasks, reduced human error and improved overall system reliability and performance.
+- **Improved Operational Efficiency**: Spearheaded automation initiatives that eliminated repetitive tasks, reduced human error, and improved overall system reliability and performance.
 - **Enhanced System Monitoring and Incident Response**: Integrated advanced monitoring and alerting systems (Grafana, Prometheus, ELK), significantly improving incident response times and proactive issue resolution.
 
 ## SKILLS
 ### Technologies
 - **Cloud Platforms**: Amazon Web Services, Google Cloud Platform
 - **CI/CD**: Gitlab CI, Jenkins, Harness
-- **Containerization and orchestration**: Kubernetes, Docker, Docker swarm, Amazon Elastic Container Service
+- **Containerization and orchestration**: Kubernetes, Docker, Docker Swarm, Amazon Elastic Container Service
 - **Programming Languages**: python3, bash, SQL, golang, Java 8
 - **IaC and configuration management**: Ansible, Terraform
 - **VCS**: Git
@@ -77,12 +77,12 @@ Experience in IT since 2017, specializing in Linux server and infrastructure sup
 ## Projects
 ### Nov-2023 - till now 
 **DevOps engineer, Planner5D**
-- Focused on infrastructure support, CI/CD management, containerization and automation to drive efficiency and scalability.
-- **CI/CD Pipeline Management**: Architected, set up and continuously optimized CI/CD pipelines to streamline deployment processes, reducing lead times and minimizing errors.
-- **Kubernetes Cluster Management**: Monitored, maintained, and resolved complex issues in Kubernetes clusters, ensuring high availability, scalability and optimal resource usage.
+- Focused on infrastructure support, CI/CD management, containerization, and automation to drive efficiency and scalability.
+- **CI/CD Pipeline Management**: Architected, set up, and continuously optimized CI/CD pipelines to streamline deployment processes, reducing lead times and minimizing errors.
+- **Kubernetes Cluster Management**: Monitored, maintained, and resolved complex issues in Kubernetes clusters, ensuring high availability, scalability, and optimal resource usage.
 - **Automation**: Automated routine operations using Ansible and GitLab CI, improving infrastructure consistency and reducing manual intervention, contributing to faster release cycles.
 - **Infrastructure and Security**: Implemented secure networking solutions using WireGuard VPN, ensuring data integrity and secure communication across environments.
-- **Monitoring and Alerting**: Enhanced visibility into system performance by building custom dashboards, defining critical alerts and integrating with monitoring solutions (Grafana, Prometheus, Loki) for proactive incident detection and resolution.
+- **Monitoring and Alerting**: Enhanced visibility into system performance by building custom dashboards, defining critical alerts, and integrating with monitoring solutions (Grafana, Prometheus, Loki) for proactive incident detection and resolution.
 - **Cross-Functional Collaboration**: Worked closely with development and operations teams to ensure alignment of infrastructure and application needs, enabling smoother deployments and quicker issue resolution.
 - **Tech Stack**:
   - **Container Orchestration**: Kubernetes, Docker Swarm.
@@ -109,7 +109,7 @@ Experience in IT since 2017, specializing in Linux server and infrastructure sup
 - **Linux Server Administration**: Managed and maintained Linux servers, ensuring system stability and performance (CentOS 7, Amazon Linux).
 - **Application Deployment and Maintenance**: Deployed and maintained Java-based applications (Payara, Wildfly, Tomcat) in production environments, optimizing for performance and availability.
 - **Configuration Management**: Leveraged Ansible for automating configuration management tasks and maintaining consistent environments.
-- **Automation**: Automated routine tasks and operational workflows using Python, Java, Bash, reducing manual effort and improving system efficiency.
+- **Automation**: Automated routine tasks and operational workflows using Python, Java, and Bash, reducing manual effort and improving system efficiency.
 - **CI/CD Management**: Supported and maintained Jenkins, ensuring the smooth operation of CI/CD pipelines and efficient software delivery processes.
 - **AWS Resource Management**: Managed and optimized resources in AWS (EC2, RDS, S3, ECS) to ensure scalability, availability and cost-effectiveness.
 - **Monitoring and Troubleshooting**: Monitored system performance using Grafana and provided quick resolutions for performance bottlenecks and other issues.
@@ -118,18 +118,18 @@ Experience in IT since 2017, specializing in Linux server and infrastructure sup
 ### Jan-2019 - Aug-2021 
 **Support Engineer, EPAM Systems**
 - **Technical Issue Investigation**: Diagnosed and resolved complex technical issues on both the application and server sides, ensuring minimal downtime and quick resolution.
-- **SQL Query Development**: Wrote and optimized SQL queries to support troubleshooting, data analysis and reporting needs.
-- **System Analysis and Monitoring**: Performed system analysis using tools such as Grafana, DynaTrace, SolarWinds, Selenium to monitor performance, detect issues and improve system efficiency.
-- **Scripting and Automation**: Developed Bash scripts to automate routine tasks, streamline workflows and improve system administration.
+- **SQL Query Development**: Wrote and optimized SQL queries to support troubleshooting, data analysis, and reporting needs.
+- **System Analysis and Monitoring**: Performed system analysis using tools such as Grafana, DynaTrace, SolarWinds, and Selenium to monitor performance, detect issues, and improve system efficiency.
+- **Scripting and Automation**: Developed Bash scripts to automate routine tasks, streamline workflows, and improve system administration.
 - **Tools and Technologies**: MS SQL, MySQL, ServiceNow, Jira, DynaTrace, Fiddler, SolarWinds, MemoryAnalyzer, Java VisualVM, AWS, Grafana, Kibana, SOLR, JBOSS/WildFly, Jetty, Karaf, Apache, Linux (CentOS 7, RHEL 7).
 
 ### Jan-2017 - Jan-2019 
 **System administrator Linux, ActiveCloud**
 - **Customer Support**: Processed and resolved customer requests, ensuring timely and accurate solutions for various technical issues.
 - **DNS Management**: Configured and managed DNS records to ensure proper domain resolution and service availability.
-- **Server Creation and Maintenance**: Set up and maintained Linux and Windows servers, ensuring optimal performance and uptime.
+- **Server Creation and Maintenance**: Set up and maintaining Linux and Windows servers, ensuring optimal performance and uptime.
 - **Server Activity Analysis**: Monitored and analyzed server activity to detect performance bottlenecks and address potential issues.
-- **Firewall Configuration**: Configured and managed firewalls using iptables and firewalld to ensure network security and compliance with company policies.
+- **Firewall Configuration**: Configured and managed firewalls using iptables and Firewalld to ensure network security and compliance with company policies.
 - **Website Migration**: Performed seamless website migrations across servers, minimizing downtime and ensuring data integrity.
 - **Database Administration**: Administered MySQL servers (MariaDB, Percona), ensuring database performance, backups, and data availability.
 - **Control Panel Management**: Set up and maintained ISPmanager and BitrixEnv panels for streamlined server management.
