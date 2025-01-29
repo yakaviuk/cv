@@ -7,7 +7,7 @@
 
 Experience in IT since 2017, specializing in Linux server and infrastructure support.
 
-- **Automation**: Proficient in scripting (Python, Bash, Java) to automate routine tasks, reducing manual intervention and increasing efficiency.
+- **Automation**: Proficient in scripting (Python, Bash) to automate routine tasks, reducing manual intervention and increasing efficiency.
 - **Application and Infrastructure Migration**: Expertise in seamless migration of applications and websites:
   - Across Linux servers.
   - To containerized environments using Docker.
@@ -44,7 +44,7 @@ Experience in IT since 2017, specializing in Linux server and infrastructure sup
 - **Networks**: DNS, Amazon VPC, WireGuard
 - **Operating System**: Linux (CentOS, Ubuntu)
 - **Databases**: MySQL, Amazon RDS, PostgreSQL
-- **Web/Application Server**: Apache, Nginx, Apache Tomcat, WildFly
+- **Web/Application Server**: Apache, Nginx, Apache Tomcat
 ### Languages
 - **Belarusian** - Native
 - **Russian** - Native
@@ -57,11 +57,11 @@ Experience in IT since 2017, specializing in Linux server and infrastructure sup
 ## WORK EXPERIENCE
 
 - **Planner5D**
-  - Senior DevOps engineer
+  - Lead SRE/DevOps engineer
   - November 2023 - till now
   - Vilnius, Lithuania
 - **EPAM Systems**
-  - Senior/Lead Systems Engineer
+  - Senior/Lead Systems (DevOps) Engineer
   - Resource manager
   - June 2022 - October 2023
   - Vilnius, Lithuania
@@ -113,7 +113,7 @@ Experience in IT since 2017, specializing in Linux server and infrastructure sup
 - **CI/CD Management**: Supported and maintained Jenkins, ensuring the smooth operation of CI/CD pipelines and efficient software delivery processes.
 - **AWS Resource Management**: Managed and optimized resources in AWS (EC2, RDS, S3, ECS) to ensure scalability, availability and cost-effectiveness.
 - **Monitoring and Troubleshooting**: Monitored system performance using Grafana and provided quick resolutions for performance bottlenecks and other issues.
-- **Tools and Technologies**: Oracle SQL, PostgreSQL, Docker, Grafana, Jenkins, Ansible, AWS (EC2, RDS, S3, ECS), Java 8, CentOS 7, Amazon Linux, Bash, Python, Nginx, Payara, Wildfly, Tomcat.
+- **Tools and Technologies**: Oracle SQL, PostgreSQL, Docker, Grafana, Jenkins, Ansible, AWS (EC2, RDS, S3, ECS), Java 8, CentOS 7, Amazon Linux, Bash, Python, Nginx, Tomcat.
 
 ### Jan-2019 - Aug-2021 
 **Support Engineer, EPAM Systems**
@@ -121,7 +121,7 @@ Experience in IT since 2017, specializing in Linux server and infrastructure sup
 - **SQL Query Development**: Wrote and optimized SQL queries to support troubleshooting, data analysis, and reporting needs.
 - **System Analysis and Monitoring**: Performed system analysis using tools such as Grafana, DynaTrace, SolarWinds, and Selenium to monitor performance, detect issues, and improve system efficiency.
 - **Scripting and Automation**: Developed Bash scripts to automate routine tasks, streamline workflows, and improve system administration.
-- **Tools and Technologies**: MS SQL, MySQL, ServiceNow, Jira, DynaTrace, Fiddler, SolarWinds, MemoryAnalyzer, Java VisualVM, AWS, Grafana, Kibana, SOLR, JBOSS/WildFly, Jetty, Karaf, Apache, Linux (CentOS 7, RHEL 7).
+- **Tools and Technologies**: AWS, MS SQL, MySQL, ServiceNow, Jira, DynaTrace, SolarWinds, Grafana, Kibana, SOLR, WildFly, Karaf, Apache, Linux (CentOS 7, RHEL 7).
 
 ### Jan-2017 - Jan-2019 
 **System administrator Linux, ActiveCloud**
